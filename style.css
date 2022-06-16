@@ -1,0 +1,52 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap'); */
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.container {
+  text-align: center;
+  margin: 50px 0px 0px 0px;
+  /* font-family: 'Vujahday Script', cursive; */
+  padding-bottom: 20px;
+  font-size: 32px;
+}
+table {
+  margin: auto;
+}
+input {
+  font-size: 33px;
+  border: rgb(228, 203, 203) double;
+  border-radius: 15px;
+  margin: 10px 0px;
+  text-align: right;
+}
+button {
+  font-size: 40px;
+  height: 57px;
+  width: 90px;
+  text-align: center;
+  margin: 5px;
+  /* padding-right: 15px; */
+  background-color: rgb(228, 203, 203);
+  border-radius: 20px;
+  cursor: pointer;
+  user-select: none;
+}
+.calculator {
+  background-color: rgb(0, 0, 0);
+  border-radius: 15px;
+
+  margin: 0px;
+  padding: auto;
+  border: 5px double rgb(228, 203, 203);
+  padding: 20px;
+  display: inline-block;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
